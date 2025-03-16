@@ -1,6 +1,7 @@
 {
     "recommendations": [
-        "dprint.dprint",
-        "golang.go"
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
     ]
 }
